@@ -1,0 +1,27 @@
+body {
+	background: ;
+}
+.one {
+	margin-left: 300px;
+	width: 300px;
+	background: ;
+	text-align: center;
+}
+.two {
+	margin-left: 50px;
+	width: 1000px;
+	background: ;
+	text-align: center;
+	border: 1px solid black;
+	
+}
+th, td, tr {
+	border: 1px solid black;
+}      
+li {
+	padding: 2px;
+	text-align: right;
+}
+.forma {
+	width: 350px;
+}
